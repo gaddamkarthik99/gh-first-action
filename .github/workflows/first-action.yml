@@ -8,5 +8,11 @@ jobs:
       run: echo "Hello World!"
     - name: print goodbye
       run: echo "Done-bye!"
+address:
+  street: "123 Main Street"
+  city: "Somewhere"
+  state: "TS"
+  zip: "12345"
+  country: "India"
 
   
